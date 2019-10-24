@@ -10,3 +10,5 @@ Show the Framework:
 
 
 <img src="https://github.com/DaniloMorgado/Testing/blob/master/Wohn.png">
+
+<img src="https://github.com/DaniloMorgado/Testing/blob/master/QRpic.png">
